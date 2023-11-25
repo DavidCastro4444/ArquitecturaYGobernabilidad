@@ -4,9 +4,6 @@
 
 # Entrega proyecto despliegue automatico
 
-
-Hola: 
-
 Para esta actividad se realizaron 3 procesos 
 
 ## Contenido: 🗂️ 
