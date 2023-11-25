@@ -7,7 +7,7 @@
 Esta arquitectura promueve la modularidad y la escalabilidad, permitiendo un desarrollo, despliegue y mantenimiento más eficientes y flexibles. Cada microservicio se centra en una tarea específica, lo que facilita la gestión y evolución del sistema. La interconexión entre los servicios se realiza a través del API Gateway, y la configuración y el descubrimiento de servicios permiten una comunicación fluida entre ellos. Además, se incluyen servicios de autenticación, autorización, registro y monitoreo para garantizar la seguridad y el rendimiento del sistema.
 
 ### Vista de Arquitectura
-![ARQ.JPG](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Taller-de-Introducci%C3%B3n-a-Virtualizaci%C3%B3n-prog.-distribuida/Imagenes/Dise%C3%B1o%20arquitectura.png)
+![ARQ.JPG](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Architecture-of-Massively-distributed-applications/imagines/Dise%C3%B1o%20Twitter.png)
 
 
 ## Catálogo de servicios 💬
