@@ -5,7 +5,7 @@
 ## Documentación de la solución
 
 ### Vista de Arquitectura
-![ARQ.JPG](Resources/aws.jpg)
+![ARQ.JPG](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Taller-de-Introducci%C3%B3n-a-Virtualizaci%C3%B3n-prog.-distribuida/Imagenes/Dise%C3%B1o%20arquitectura.png)
 
 Esta vista muestra los componentes principales de la solución.
 - EC2 Server: Este motor permitirá la creación y ejecución de contenedores.
@@ -43,7 +43,7 @@ public class SparkWebServer {
 ```
 </details></p>
 
-![ARQ.JPG](Resources/aws.jpg)
+![ARQ.JPG](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Taller-de-Introducci%C3%B3n-a-Virtualizaci%C3%B3n-prog.-distribuida/Imagenes/Ejemplo%20ejecucion.drawio.png)
 
 ### *DockerFile*
 Documento que especifica las dependencias para el microcontenedor Docker. En este caso, la solución define un entorno de ejecución en una imagen estable de OpenJDK 8 con un puerto de exposición definido por configuración (6000 en este caso).
