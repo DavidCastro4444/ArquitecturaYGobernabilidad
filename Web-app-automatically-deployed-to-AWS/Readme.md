@@ -1,5 +1,4 @@
-
-											
+						
 
 # Web app automatically deployed to AWS
 
