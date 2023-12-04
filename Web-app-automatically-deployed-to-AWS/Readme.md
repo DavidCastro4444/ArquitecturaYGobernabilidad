@@ -13,11 +13,9 @@ Para esta actividad se realizaron 3 procesos
  > 
  > SSH
 
-No fue posible implementar del todo los 3 procesos en su gran mayoria por restricciones o porque no es posible incluir claves y fallaba el despliegue atomatizado, anexo el trabajo realizado, para CDK se utilizo busqueda y ejecución de repos y tutoriales en linea, para el ssh se utilizo el mismo proceso en clase más lo aprendido en tutorial de CDK 
-
 # Arquitectura
 
-![image](https://user-images.githubusercontent.com/26396833/201528653-313d880b-81cd-4a38-a86f-caf84d5919a1.png)
+![image](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Web-app-automatically-deployed-to-AWS/Imagines/Arquitectura.png)
 
 - WebServer: Un servidor web que sirve contenido estático y dinámico a los usuarios.
 - SecurityGroup: Un grupo de seguridad que controla el acceso al servidor web.
@@ -48,12 +46,15 @@ La arquitectura se puede mejorar agregando los siguientes componentes:
 
 # RESULTADOS AWS
 
+## Parametros
+![image](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Web-app-automatically-deployed-to-AWS/Imagines/paramaters.PNG)
+
 ## Instancia 
-![image](https://user-images.githubusercontent.com/26396833/201528653-313d880b-81cd-4a38-a86f-caf84d5919a1.png)
+![image](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Web-app-automatically-deployed-to-AWS/Imagines/evidencia%201.PNG)
 
-## Grupo seguridad 
-![image](https://user-images.githubusercontent.com/26396833/201528838-b6dc5bc5-6792-41d5-b85e-61d71461e48d.png)
+## Instancias EC2 Creadas 
+![image](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/Web-app-automatically-deployed-to-AWS/Imagines/EC2.PNG)
 
-
+  
 ### Autor  
   David Santiago Castro Vargas
