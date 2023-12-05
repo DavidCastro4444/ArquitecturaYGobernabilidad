@@ -75,7 +75,7 @@ El flujo de trabajo de la autenticación es el siguiente:
 
 
 ## Arquitectura
-[arquitectura](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/SECURITY-HOMEWORK/Imagenes/descarga.png)
+- [Java 8](https://github.com/DavidCastro4444/ArquitecturaYGobernabilidad/blob/main/SECURITY-HOMEWORK/Imagenes/descarga.png)
 
 ## Autor
 - David Santiago Castro Vargas
